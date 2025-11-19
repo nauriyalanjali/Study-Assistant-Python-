@@ -1,0 +1,32 @@
+[
+  {
+    "question": "Which data type is immutable in Python?",
+    "options": [
+      "list",
+      "dict",
+      "set",
+      "tuple"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "What does HTML stand for?",
+    "options": [
+      "Hyperlinks and Text Markup Language",
+      "Hyper Text Markup Language",
+      "Home Tool Markup Language",
+      "Hyperlinking Text Markup Language"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which planet is known as the Red Planet?",
+    "options": [
+      "Earth",
+      "Venus",
+      "Mars",
+      "Jupiter"
+    ],
+    "answer": 2
+  }
+]

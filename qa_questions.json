@@ -1,0 +1,29 @@
+[
+  {
+    "question": "What is Python?",
+    "answer": "Python is a high-level, interpreted programming language known for readability and ease of use.",
+    "tags": [
+      "python",
+      "programming",
+      "language"
+    ]
+  },
+  {
+    "question": "How do I install a package with pip?",
+    "answer": "Use pip install <package-name> from the command line, e.g. `pip install requests`.",
+    "tags": [
+      "pip",
+      "install",
+      "package"
+    ]
+  },
+  {
+    "question": "What is Tkinter?",
+    "answer": "Tkinter is Python's standard GUI toolkit for creating desktop applications.",
+    "tags": [
+      "tkinter",
+      "gui",
+      "python"
+    ]
+  }
+]
